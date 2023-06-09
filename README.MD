@@ -1,11 +1,10 @@
 Praktikum Sistem Multimedia
 
-1207050016
+1207050012
 
-Arba Adhy Pamungkas
+Alifia Nadiva Altafunnisa
 
 
 Link Instalasi Fluent
 
 https://www.gyan.dev/ffmpeg/builds/
-
